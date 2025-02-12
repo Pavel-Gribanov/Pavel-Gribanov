@@ -1,3 +1,3 @@
-average cave prisoner
-G/ker(f)~f(G)
+average cave prisoner \
+G/ker(f)~f(G) \
 they/them
